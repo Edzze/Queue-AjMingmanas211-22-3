@@ -36,7 +36,6 @@ int NODE::get_value() {
         break;
     }
   
-
   return price;
 }
 

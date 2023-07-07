@@ -22,7 +22,7 @@ Queue::~Queue() {
   int i;
   int n = size;
 
-  // while(size>0)
+  // while(size>0) 
   for (i = 0; i < n; i++)
     dequeue();
 }

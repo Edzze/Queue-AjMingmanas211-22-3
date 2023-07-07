@@ -41,6 +41,5 @@ int main(int argc, char *argv[]) {
       
     }
   }
-
   cout << "End of program" << endl;
 }
